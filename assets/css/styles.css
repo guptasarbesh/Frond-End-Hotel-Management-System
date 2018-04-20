@@ -1,0 +1,25 @@
+.label{
+  padding:.2em .6em .3em;
+  font-size:75%;
+  font-weight:700;
+  line-height:1;
+  color:#fff;
+  text-align:center;
+  white-space:nowrap;
+  vertical-align:baseline;
+  border-radius:.25em;
+  padding:10px;
+  margin-left:10px;
+}
+
+input{
+  line-height:normal;
+  padding:8px;
+  margin-left:10px;
+}
+
+button#btn.btn.btn-success{
+  margin-left:10px;
+  padding:10px;
+}
+
